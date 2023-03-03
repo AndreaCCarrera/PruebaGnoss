@@ -49,7 +49,7 @@ namespace PruebaGnoss
         {
 
 
-            string[] l = { "PP", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E" };
+            string[] l = { "T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E" };
 
             return l[numero % 23];
 
